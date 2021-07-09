@@ -12,3 +12,5 @@ for x in range(len(pass_split)):
     print(usernamesplit[2])
 
 outputfile.close()
+passwordfile.close()
+
